@@ -1,0 +1,15 @@
+C:\Users\joser\source\repos\MCApiV\ApplicationCore\bin\Release\net7.0\ApplicationCore.deps.json
+C:\Users\joser\source\repos\MCApiV\ApplicationCore\bin\Release\net7.0\ApplicationCore.dll
+C:\Users\joser\source\repos\MCApiV\ApplicationCore\bin\Release\net7.0\ApplicationCore.pdb
+C:\Users\joser\source\repos\MCApiV\ApplicationCore\bin\Release\net7.0\DataAccessLayer.dll
+C:\Users\joser\source\repos\MCApiV\ApplicationCore\bin\Release\net7.0\DataAccessLayer.pdb
+C:\Users\joser\source\repos\MCApiV\ApplicationCore\obj\Release\net7.0\ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\joser\source\repos\MCApiV\ApplicationCore\obj\Release\net7.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joser\source\repos\MCApiV\ApplicationCore\obj\Release\net7.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\joser\source\repos\MCApiV\ApplicationCore\obj\Release\net7.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\joser\source\repos\MCApiV\ApplicationCore\obj\Release\net7.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\joser\source\repos\MCApiV\ApplicationCore\obj\Release\net7.0\ApplicationCore.csproj.CopyComplete
+C:\Users\joser\source\repos\MCApiV\ApplicationCore\obj\Release\net7.0\ApplicationCore.dll
+C:\Users\joser\source\repos\MCApiV\ApplicationCore\obj\Release\net7.0\refint\ApplicationCore.dll
+C:\Users\joser\source\repos\MCApiV\ApplicationCore\obj\Release\net7.0\ApplicationCore.pdb
+C:\Users\joser\source\repos\MCApiV\ApplicationCore\obj\Release\net7.0\ref\ApplicationCore.dll
